@@ -1,0 +1,40 @@
+/* import {'remixicon/fonts/remixicon.css'}; */
+@keyframes changeColor {
+  0% {
+    color: #ff4141;
+  }
+  10% {
+    color: #ff9560;
+  }
+  20% {
+    color: #e586b5;
+  }
+  30% {
+    color: #ffc153;
+  }
+  40% {
+    color: #edfe69;
+  }
+  50% {
+    color: #a0d08f;
+  }
+  60% {
+    color: #69d3b1;
+  }
+  70% {
+    color: #7da4ec;
+  }
+  80% {
+    color: #8362f0;
+  }
+  90% {
+    color: #cb8fd0;
+  }
+  100% {
+    color: #ff4949;
+  }
+}
+
+.animate-color-change {
+  animation: changeColor 15s linear infinite; /* Adjust the duration (5s) as needed */
+}
