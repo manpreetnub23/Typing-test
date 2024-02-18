@@ -1,30 +1,28 @@
 {
-    "paragraphs": [
-      {
-        "id": 1,
-        "text": "lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber"
-      },
-      {
-        "id": 2,
-        "text": "sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet"
-      },
-      {
-        "id": 3,
-        "text": "duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta"
-      },
-      {
-        "id": 4,
-        "text": "a good paragraph is composed of a topic sentencerelevant supporting sentences and a closing or transition sentence this structure is key to keeping your paragraph focused on the main idea and creating a clear and concise image while creative writing does not necessarily follow the traditional paragraph structure it is more about scene building and continuing a narrative efficient well written paragraphs are a staple of good flash fiction and short fiction writing"
-      },
-      {
-        "id": 5,
-        "text": "once upon a time in a quaint village nestled amidst rolling hills and lush greenery lived a young girl named lily she had long flowing hair that danced in the gentle breeze and eyes as bright as the morning sun lily spent her days wandering through meadows filled with wildflowers chasing butterflies and listening to the songs of birds"
-      },
-      {
-        "id": 6,
-        "text": "one day while exploring the forest on the outskirts of the village lily stumbled upon a hidden glade it was a magical place where sunlight filtered through the canopy of trees casting dappled patterns on the forest floor in the center of the glade stood an ancient oak tree its branches reaching up to the sky like outstretched arms"
-      }
-    ]
-  }
-  
-  
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber lorem ipsum dolor sit amet consectetur adipiscing elit integer nec odio praesent liber"
+    },
+    {
+      "id": 2,
+      "text": "sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet sed cursus ante dapibus diam sed nisi nulla quis sem at nibh elementum imperdiet"
+    },
+    {
+      "id": 3,
+      "text": "duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta duis sagittis ipsum praesent mauris usce nec tellus sed augue semper porta"
+    },
+    {
+      "id": 4,
+      "text": "a good paragraph is composed of a topic sentencerelevant supporting sentences and a closing or transition sentence this structure is key to keeping your paragraph focused on the main idea and creating a clear and concise image while creative writing does not necessarily follow the traditional paragraph structure it is more about scene building and continuing a narrative efficient well written paragraphs are a staple of good flash fiction and short fiction writing"
+    },
+    {
+      "id": 5,
+      "text": "once upon a time in a quaint village nestled amidst rolling hills and lush greenery lived a young girl named lily she had long flowing hair that danced in the gentle breeze and eyes as bright as the morning sun lily spent her days wandering through meadows filled with wildflowers chasing butterflies and listening to the songs of birds"
+    },
+    {
+      "id": 6,
+      "text": "one day while exploring the forest on the outskirts of the village lily stumbled upon a hidden glade it was a magical place where sunlight filtered through the canopy of trees casting dappled patterns on the forest floor in the center of the glade stood an ancient oak tree its branches reaching up to the sky like outstretched arms"
+    }
+  ]
+}

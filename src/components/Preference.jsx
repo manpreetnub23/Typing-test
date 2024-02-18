@@ -7,7 +7,7 @@ const Preference = () => {
   };
   return (
     <div className="flex items-center w-screen justify-center">
-      <div className="h-12 w-76 mt-2 p-4 rounded-xl bg-gray-700 bg-opacity-15 text-zinc-500 items-center flex">
+      <div className="h-12 w-76 mt-2 p-4 rounded-full bg-gray-700 bg-opacity-15 text-zinc-500 items-center flex">
         <ul className="flex gap-8">
           <li
             className={`hover:text-zinc-300 cursor-pointer ${
