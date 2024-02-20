@@ -1,9 +1,11 @@
+// Preference.jsx
 import React, { useState } from "react";
 
-const Preference = () => {
+const Preference = ({ setActiveMode }) => {
   const [active, setActive] = useState(0);
   const handleClick = (index) => {
     setActive(index);
+    setActiveMode(index); // Pass the active mode to the parent component
   };
   return (
     <div className="flex items-center w-screen justify-center">
@@ -25,12 +27,6 @@ const Preference = () => {
           >
             @ punctuation
           </li>
-          <li
-            className={`hover:text-zinc-300 cursor-pointer ${
-              active === 2 && "text-zinc-300"
-            }`}
-            onClick={() => handleClick(2)}
-          >123 numbers</li>
         </ul>
       </div>
     </div>
