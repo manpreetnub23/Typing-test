@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Preference from "./components/Preference";
-import StartStop from "./components/StartStop";
 import "../src/styles/Navbar.css";
 
 function App() {
